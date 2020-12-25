@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**DR90BABY/dr90baby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="profile_img.png"/>
+    <h4>HELLO THERE 👋 I AM PHILIP</h4>
+</div>
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> An electronics, computers student and hobbysist. A software developer and an AI enthusiast </p>
+
+<a href="https://www.linkedin.com/in/philip-oyoo-2104a9151/">
+  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=dr90baby&color=blue)
+
+### Languages and Tools
+
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![PHP](https://img.icons8.com/color/30/php.png)
+![VueJS](https://img.icons8.com/color/30/vue-js.png)
+
+![C Plus Plus](https://img.icons8.com/color/30/000000/c-plus-plus-logo.png)
+![C Language](https://img.icons8.com/color/30/000000/c-programming.png)
+![Arduino](https://img.icons8.com/fluent/30/000000/arduino.png)
+![Matlab](https://img.icons8.com/fluent/30/000000/matlab.png)
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dr90baby&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Philip's GitHub Stats">
+
+
+
+### GitHub Awards
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=dr90baby)
+
+[![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=dr90baby)](https://github.com/dr90baby/github-readme-stats)
