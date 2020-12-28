@@ -9,8 +9,13 @@
 <p> An electronics, computers student and hobbysist. A software developer and an AI enthusiast </p>
 
 <a href="https://www.linkedin.com/in/philip-oyoo-2104a9151/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ LINKEIN PROFILE <img src="https://img.icons8.com/fluent/24/000000/linkedin.png"/>
 </a>
+
+<a href="https://resume.io/r/L60oAc54T">
+ MY RESUME  <img src="https://img.icons8.com/color/24/000000/new-resume-template.png"/>
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=dr90baby&color=blue)
 
