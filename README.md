@@ -8,11 +8,10 @@
 
 <p> An electronics, computers student and hobbysist. A software developer and an AI enthusiast </p>
 
-<a href="https://www.linkedin.com/in/philip-oyoo-2104a9151/">
+<a align="left" href="https://www.linkedin.com/in/philip-oyoo-2104a9151/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-<br/>
-<a href="https://resume.io/r/L60oAc54T">
+<a align="center" href="https://resume.io/r/L60oAc54T">
     <img src="https://img.icons8.com/color/48/000000/new-resume-template.png"/>
 </a>
 
