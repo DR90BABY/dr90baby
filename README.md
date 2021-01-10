@@ -1,7 +1,6 @@
 
 <div align="center">
-    <img src="profile_img.png"/>
-    <h4>HELLO THERE 👋 I AM PHILIP</h4>
+    <h1>HELLO THERE 👋 I AM PHILIP</h1>
 </div>
 
 ### About Me
